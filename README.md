@@ -1,0 +1,2 @@
+# ipldataanalysis-end-to-end-data-engineering-project
+In this project, we analyze Indian Premier League (IPL) data by building a robust data pipeline. Our primary focus is on writing Apache Spark code and implementing various functions to perform data transformations. This repository contains all the necessary scripts and documentation to help you understand and replicate the data analysis process.
